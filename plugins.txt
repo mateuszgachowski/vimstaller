@@ -1,0 +1,11 @@
+vim-airline|https://github.com/bling/vim-airline
+synastic|https://github.com/scrooloose/syntastic.git
+nerdtree|https://github.com/scrooloose/nerdtree.git
+ctrlp.vim|https://github.com/kien/ctrlp.vim.git
+vim-surround|git://github.com/tpope/vim-surround.git
+vim-sensible|git://github.com/tpope/vim-sensible.git
+snipmate.vim|https://github.com/msanders/snipmate.vim
+vim-startify|https://github.com/mhinz/vim-startify
+tagbar|git://github.com/majutsushi/tagbar
+vim-fugitive|https://github.com/tpope/vim-fugitive.git
+bufexplorer|https://github.com/corntrace/bufexplorer.git
