@@ -51,4 +51,4 @@ nmap <c-l> 4l
 noremap <silent> <C-n> :NERDTreeFocus<CR>
 
 " Less (compile on save)
-nnoremap <Leader>m :w <BAR> !lessc % > %:t:r.css<CR><space>
+nnoremap ,m :w <BAR> !lessc % > %:p:r.css<CR><space>
