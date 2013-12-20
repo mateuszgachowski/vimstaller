@@ -1,5 +1,5 @@
 vim-airline|https://github.com/bling/vim-airline
-synastic|https://github.com/scrooloose/syntastic.git
+syntastic|https://github.com/scrooloose/syntastic.git
 nerdtree|https://github.com/scrooloose/nerdtree.git
 ctrlp.vim|https://github.com/kien/ctrlp.vim.git
 vim-surround|git://github.com/tpope/vim-surround.git
