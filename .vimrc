@@ -5,6 +5,7 @@ syntax enable
 filetype plugin indent on
 set number
 set cursorline
+set noswapfile
 highlight LineNr     term=bold cterm=NONE ctermfg=White ctermbg=NONE gui=NONE guifg=Black guibg=NONE
 highlight CursorLine cterm=NONE ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE
 highlight Pmenu      ctermfg=black ctermbg=white
