@@ -1,11 +1,12 @@
+#!/bin/bash
 # Directories
 VIM_DIR=~/.vim
 HOME_DIR=~
 
 # Sources
-PLUGINS_URL="https://raw.github.com/mateuszgachowski/vimstaller/master/plugins.txt"
-PATHOGEN_URL="https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim"
-VIMRC_URL="https://raw.github.com/mateuszgachowski/vimstaller/master/.vimrc"
+PLUGINS_URL="https://raw.githubusercontent.com/mateuszgachowski/vimstaller/master/plugins.txt"
+PATHOGEN_URL="https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim"
+VIMRC_URL="https://raw.githubusercontent.com/mateuszgachowski/vimstaller/master/.vimrc"
 
 # Colors
 COLOR_YELLOW='\033[33;33m'
